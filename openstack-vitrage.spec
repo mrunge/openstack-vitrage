@@ -38,7 +38,7 @@ BuildRequires:    python-testrepository
 BuildRequires:    python-testscenarios
 BuildRequires:    python2-testtools
 BuildRequires:    python2-oslotest
-BuildRequires:    python2-networkx
+#BuildRequires:    python2-networkx
 BuildRequires:    python2-oslo-policy
 # BuildRequires:    python-vitrageclient
 
