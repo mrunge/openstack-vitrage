@@ -3,7 +3,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 
 Name:             openstack-vitrage
-Version:          1.3.0
+Version:          1.3.1
 Release:          1
 Summary:          OpenStack Root Cause Analysis
 License:          ASL 2.0
@@ -271,3 +271,6 @@ exit 0
 
 
 %changelog
+* Thu Nov 03 2016 Matthias Runge <mrunge@redhat.com> 1.3.1-1
+- new package built with tito
+
